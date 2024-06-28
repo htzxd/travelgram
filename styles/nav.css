@@ -1,0 +1,24 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-block: 2rem;
+  line-height: 0;
+}
+
+ nav ul{
+  display: flex;
+  list-style: none;
+  align-items: center;
+  gap: 2rem;
+  padding-block: .8rem;
+}
+
+.nav{
+  height: 4rem;
+  width: 4rem;
+}
+
+nav ul li {
+  gap: 1.6rem;
+}
