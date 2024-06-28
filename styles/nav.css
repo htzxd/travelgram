@@ -10,7 +10,7 @@ nav {
   display: flex;
   list-style: none;
   align-items: center;
-  gap: 2rem;
+  gap: 2.4rem;
   padding-block: .8rem;
 }
 
@@ -22,3 +22,4 @@ nav {
 nav ul li {
   gap: 1.6rem;
 }
+
